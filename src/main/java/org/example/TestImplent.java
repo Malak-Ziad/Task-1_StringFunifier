@@ -6,7 +6,6 @@ public class TestImplent {
         //int[] StartIndexList={1,5,7,11};
         //int[] endIndexList={3,5,10,12};
         char[] charBoringString=boringString.toCharArray();
-        for(int )
+
     }
 }
-//maryiam
